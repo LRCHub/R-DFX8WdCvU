@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "鉄風 鋭くなって",
+  "base_artist": "NUMBER GIRL",
+  "createdAt": "2026-03-22T14:08:13.087149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鉄風 鋭くなって",
+      "artist": "Number Girl",
+      "has_synced": true,
+      "path": "select/01_鉄風_鋭くなって_Number_Girl.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "鉄風 鋭くなって",
+      "artist": "ナンバーガール",
+      "has_synced": true,
+      "path": "select/02_鉄風_鋭くなって_ナンバーガール.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "鉄風 鋭くなって",
+      "artist": "Number Girl",
+      "has_synced": true,
+      "path": "select/03_鉄風_鋭くなって_Number_Girl.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "鉄風 鋭くなって (2002年 Live at 松山サロンキティ)",
+      "artist": "Number Girl",
+      "has_synced": false,
+      "path": "select/04_鉄風_鋭くなって_(2002年_Live_at_松山サロンキティ)_Number_Girl.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "鉄風 鋭くなって (2000年 Live at 長野JUNK BOX)",
+      "artist": "Number Girl",
+      "has_synced": false,
+      "path": "select/05_鉄風_鋭くなって_(2000年_Live_at_長野JUNK_BOX)_Number_Girl.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "鉄風 鋭くなって (Live)",
+      "artist": "Number Girl",
+      "has_synced": true,
+      "path": "select/06_鉄風_鋭くなって_(Live)_Number_Girl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鉄風 鋭くなって",
+      "artist": "NUMBER GIRL",
+      "has_synced": false,
+      "path": "select/pl_01_鉄風_鋭くなって_NUMBER_GIRL.txt"
+    }
+  ]
+}
